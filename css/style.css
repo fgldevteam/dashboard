@@ -1542,7 +1542,12 @@ a.list-group-item.active:focus {
 /* FLOT CHART  */
 .flot-chart {
   display: block;
-  height: 200px;
+  height: 390px;
+}
+
+.flot-chart-cat {
+  display: block;
+  height: 250px;
 }
 .widget .flot-chart.dashboard-chart {
   display: block;
